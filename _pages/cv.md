@@ -11,27 +11,27 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* B.S. in Computer Science, College Of Engineering, University of California, Davis, 2025
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Software Engineering Intern, Fall 2023
+  * Design2Data
+  * Engineered efficient algorithms and data structures for seamless      * data processing and storage, enhancing system
+  * performance by 20%
+  * Integrated Chart.js with Vite for dynamic data visualization,       
+  * reducing load times by 9%
+  * Authored comprehensive user tutorials, reducing support queries by    * 30% and enhancing user on-boarding
+  * experience
+  * Built application with React, Tailwind CSS, Chart.js, React 
+  * Joyride, AWS
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Software Engineering Intern, Spring 2022
+  * DesignHub
+ 
+* R&D Hardware Engineering Intern, Spring 2022
+  * NASA
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
 Skills
 ======
 * Skill 1
@@ -40,25 +40,3 @@ Skills
   * Sub-skill 2.2
   * Sub-skill 2.3
 * Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
